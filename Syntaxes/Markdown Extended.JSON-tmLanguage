@@ -224,7 +224,7 @@
             ]
         },
         {
-            "begin": "(```|~~~)\\s*(hbs|handlebars|html|html5)\\s*$",
+            "begin": "(```|~~~)\\s*(hbs|handlebars|html|html5|html_example)\\s*$",
             "captures": {
                 "1": {
                     "name": "punctuation.definition.fenced.markdown"
